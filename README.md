@@ -1,3 +1,7 @@
+# NOTE
+# THIS IS THE EXACT COPY OF REACT-NATIVE-PDF@6.7.4 WITH CRASH FIX.
+PLEASE USE THE LATEST VERSION IF YOU ARE NEW HERE.
+
 # react-native-pdf
 [![npm](https://img.shields.io/npm/v/react-native-pdf.svg?style=flat-square)](https://www.npmjs.com/package/react-native-pdf)
 
